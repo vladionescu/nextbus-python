@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="NextBus",
-    packages=['Nextbus'],
+    packages=['libnextbus'],
     version="1.0",
     description="Fetch NextBus API data",
     author="Vlad Ionescu",

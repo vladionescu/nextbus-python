@@ -1,5 +1,5 @@
 #!/usr/bin/env python2
-#import Nextbus # use when running outside Nextbus dir
+#import libnextbus # use when running outside Nextbus dir
 from __init__ import Nextbus # use when running within Nextbus dir
 import requests
 
