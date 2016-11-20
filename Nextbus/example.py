@@ -4,8 +4,8 @@ from __init__ import Nextbus # use when running within Nextbus dir
 import requests
 
 agency = 'sf-muni'
-route = '2'
-stop = '6608' # Sutter x Scott
+route = '38'
+stop = '4294' # Divisadero x Geary
 
 def main():
     api = Nextbus(agency=agency, route=route, stop=stop)
