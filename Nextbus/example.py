@@ -2,8 +2,6 @@
 #import Nextbus # use when running outside Nextbus dir
 from __init__ import Nextbus # use when running within Nextbus dir
 import requests
-import xml.etree.ElementTree as XML
-import logging
 
 agency = 'sf-muni'
 route = '2'
